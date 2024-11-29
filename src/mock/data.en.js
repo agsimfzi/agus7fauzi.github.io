@@ -32,8 +32,8 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'point-of-sales-project.png',
-    title: 'Point of Sales Application (Under Development)',
+    img: 'titik-nol-hipnoterapi.png',
+    title: 'Titik Nol Hipnoterapi',
     info: `The POS application, also known as a cashier application, is the application or software used
     to support direct transactions with sellers in various retail stores that have many branches.`,
     info2: `I made this application with ReactJS Technology, Library and Framework, Material UI, NodeJS, ExpressJS, GraphQL Language,
@@ -44,8 +44,8 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'login-system-codeigniter3-project.png',
-    title: 'Login System CodeIgniter 3 (Dashboard)',
+    img: 'ebelanja-topup.png',
+    title: 'eBelanja TopUp',
     info: `Login is also called" logon "or" sign in "is a term in terms of computer security, which is a process of entry
     for users to access the computer system. Login is intended to manage the identification process.`,
     info2: ` Features: Login & Registration, User Access Level,
@@ -56,8 +56,18 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'php-procedural-project.png',
-    title: 'Bookstore Management (PHP Native Procedural)',
+    img: 'innet.jpg',
+    title: 'Innet',
+    info: `Bookstore Software is computer software designed for the purposes of processing book data in bookstores and other stores similar to it.`,
+    info2: `Made with PHP Native / Core using the Procedural paradigm. This application has features: Login & Registration as well as Remember me, Create, Read, Update and Delete book data.`,
+    info3: `Login Admin: Username: admin, Password: admin`,
+    url: 'https://agus7fauzi-live.my.id/php-procedural-rev',
+    repo: 'https://github.com/agus7fauzi/php-procedural', // if no repo, the button will not show up'
+  },
+  {
+    id: nanoid(),
+    img: 'isibiz.png',
+    title: 'Isibiz',
     info: `Bookstore Software is computer software designed for the purposes of processing book data in bookstores and other stores similar to it.`,
     info2: `Made with PHP Native / Core using the Procedural paradigm. This application has features: Login & Registration as well as Remember me, Create, Read, Update and Delete book data.`,
     info3: `Login Admin: Username: admin, Password: admin`,

@@ -32,8 +32,8 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'point-of-sales-project.png',
-    title: 'Aplikasi Point of Sales (Dalam Pengembangan)',
+    img: 'titik-nol-hipnoterapi.png',
+    title: 'Titik Nol Hipnoterapi',
     info: `Aplikasi POS biasa juga disebut dengan aplikasi kasir adalah aplikasi atau software yang digunakan
     untuk mendukung transaksi langsung dengan penjual di berbagai toko retail yang memiliki banyak cabang.`,
     info2: `Aplikasi ini saya buat dengan Teknologi, Library dan Framework ReactJS, Material UI, NodeJS, ExpressJS, GraphQL Language,
@@ -44,8 +44,8 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'login-system-codeigniter3-project.png',
-    title: 'Login Sytem CodeIgniter 3 (Dashboard)',
+    img: 'ebelanja-topup.png',
+    title: 'eBelanja TopUp',
     info: `Login di­sebut juga “logon” atau “sign in” adalah istilah dalam hal keamanan komputer, yakni berupa proses pintu masuk
     bagi pengguna untuk mengakses sistem komputer. Login dimaksudkan untuk mengatur proses identifikasi.`,
     info2: `Fitur: Login & Registrasi, User Access Level,
@@ -56,8 +56,18 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'php-procedural-project.png',
-    title: 'Bookstore Management (PHP Native Procedural)',
+    img: 'innet.jpg',
+    title: 'Innet',
+    info: `Software Toko Buku adalah perangkat lunak komputer yang didesain untuk keperluan mengolah data buku di toko buku serta toko-toko lain yang sejenis dengan itu.`,
+    info2: `Dibuat dengan PHP Native/ Core menggunakan paradigma Prosedural. Aplikasi ini mempunyai fitur: Login & Registrasi serta Remember me, Create, Read, Update dan Delete data-data buku.`,
+    info3: `Login Admin: Username: admin, Password: admin`,
+    url: 'https://agus7fauzi-live.my.id/php-procedural-rev',
+    repo: 'https://github.com/agus7fauzi/php-procedural', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'isibiz.png',
+    title: 'Isibiz',
     info: `Software Toko Buku adalah perangkat lunak komputer yang didesain untuk keperluan mengolah data buku di toko buku serta toko-toko lain yang sejenis dengan itu.`,
     info2: `Dibuat dengan PHP Native/ Core menggunakan paradigma Prosedural. Aplikasi ini mempunyai fitur: Login & Registrasi serta Remember me, Create, Read, Update dan Delete data-data buku.`,
     info3: `Login Admin: Username: admin, Password: admin`,
