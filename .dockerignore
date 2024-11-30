@@ -1,0 +1,15 @@
+.env
+.public
+.cache
+.git
+.github
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.docker/
+.vscode/
+.idea/
+.DS_Store
+Dockerfile
+deployment.yaml
