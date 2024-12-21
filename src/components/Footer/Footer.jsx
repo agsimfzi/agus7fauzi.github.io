@@ -35,7 +35,7 @@ const Footer = () => {
         <hr />
         <p className="footer__text">
           © {new Date().getFullYear()} - Created with ❤ by{' '}
-          <a href="https://github.com/agus7fauzi" target="_blank" rel="noopener noreferrer">
+          <a href="https://agsimfzi.isibiz.com" target="_blank" rel="noopener noreferrer">
             Agus Imam Fauzi
           </a>
         </p>

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Agus Imam Fauzi | Junior Developer`,
-    siteUrl: `https://agus7fauzi.github.io`,
+    title: `Agus Imam Fauzi | Software Engineer`,
+    siteUrl: `https://agsimfzi.isibiz.com`,
   },
   plugins: [
     `gatsby-plugin-sass`,
@@ -12,7 +12,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Agus Imam Fauzi Personal Website`,
+        name: `Agus Imam Fauzi Portfolio Website`,
         short_name: `Agus Imam Fauzi`,
         start_url: `/`,
         background_color: `#fff`,

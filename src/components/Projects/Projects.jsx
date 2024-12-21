@@ -56,7 +56,7 @@ const Projects = () => {
                         className="cta-btn cta-btn--hero"
                         href={url || '#!'}
                       >
-                        {lang === `id` ? `Lihat Demo` : `See Demo`}
+                        {lang === `id` ? `Lihat Live` : `See Live`}
                       </a>
 
                       {repo && (

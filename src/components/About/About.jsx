@@ -46,6 +46,14 @@ const About = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                     className="cta-btn cta-btn--resume"
+                    href="https://projects.co.id/public/browse_users/view/7c9d1a/agus-imam-fauzi"
+                  >
+                    Projects.co.id
+                  </a>
+                  <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="cta-btn cta-btn--resume"
                     href="https://github.com/agsimfzi"
                   >
                     Github
